@@ -96,7 +96,5 @@ B.Tech — Computer Engineering
 **Project:** Beauty & Wellness AI-Powered Customer Personalization Dashboard  
 **Domain:** Data Analytics | Business Intelligence | Customer Analytics
 
----
 
-⭐ If you find this project useful, consider starring the repository.
 
